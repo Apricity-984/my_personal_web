@@ -1,33 +1,113 @@
-# 你好，欢迎来到我的小站
+---
+hide:
+  - toc
+---
 
-这里记录我正在学习的东西、读过的书，以及日常生活里的想法。内容会慢慢积累，欢迎随意逛逛。
+<div class="home-page" markdown="1">
 
-<div class="grid cards" markdown>
+<section class="home-hero" markdown="1">
 
--:material-laptop: **技术与工具**
+<div class="home-hero-copy" markdown="1">
 
-    编程、开发工具和实践笔记。
+<p class="home-eyebrow"><span></span> APRICITY'S PERSONAL FIELD NOTES</p>
 
-    [浏览技术文章 →](blog/technology.md)
+# 把正在走的路，<br>慢慢写下来。
 
--:material-book-open-page-variant: **阅读与学习**
+你好，我是 **Apricity**。这里收集技术实践、学习笔记、读书片段和日常想法。希望每一次记录，都能让下一步走得更清楚一点。
 
-    读书摘录、课程笔记和长期整理的知识。
+<div class="home-actions" markdown="1">
 
-    [浏览学习笔记 →](notes/index.md)
-
--:material-feather: **随笔与周刊**
-
-    不定期写下的观察、收藏与每周回顾。
-
-    [浏览随笔 →](blog/index.md)
+[逛逛博客](blog/index.md){ .md-button .md-button--primary }
+[认识一下我](about.md){ .md-button }
 
 </div>
 
-## 最近更新
+</div>
 
-- [给个人博客选一个轻量的写作流程](blog/first-post.md) · 示例文章
+<div class="home-profile" markdown="1">
+<p class="profile-monogram">A<span>✳</span></p>
+<p class="profile-overline">A SMALL CORNER OF THE INTERNET</p>
+<p class="profile-name">Apricity</p>
+<p class="profile-motto">学习 · 创作 · 生活</p>
+<hr class="profile-divider">
+<p class="profile-note">写给现在，也留给未来的自己。</p>
+</div>
 
-## 关于这个网站
+</section>
 
-本站使用 Markdown 写作，由 Material for MkDocs 生成。你可以先替换这段介绍，再从左侧导航进入不同栏目。
+<div class="home-section-heading" markdown="1">
+<p class="home-eyebrow">EXPLORE THE SITE</p>
+## 想从哪里开始？
+</div>
+
+<div class="grid cards home-card-grid" markdown>
+
+-   💻 **技术与实践**
+
+    ---
+
+    编程、工具和项目中的小发现。把问题解决的过程也记下来。
+
+    [打开技术文章 →](blog/technology.md)
+
+-   📖 **学习与笔记**
+
+    ---
+
+    课程、阅读和长期整理的知识，从零散输入到自己的理解。
+
+    [浏览学习笔记 →](notes/index.md)
+
+-   ✍️ **随笔与想法**
+
+    ---
+
+    记录生活里的观察，给那些暂时还没有答案的问题留个位置。
+
+    [读读随笔 →](blog/essays.md)
+
+-   🗞️ **每周收藏**
+
+    ---
+
+    值得保存的文章、工具与灵感，偶尔回头看看自己走过的路。
+
+    [翻阅周刊 →](blog/weekly.md)
+
+</div>
+
+<section class="home-lower-grid" markdown="1">
+
+<div class="home-start-card" markdown="1">
+
+<p class="home-eyebrow">A GOOD PLACE TO BEGIN</p>
+
+### 从一份学习笔记开始
+
+把一个问题说清楚，记下尝试过的方法，再把新的发现串联起来。
+
+[打开学习笔记 →](notes/study.md)
+
+</div>
+
+<div class="home-note-card" markdown="1">
+
+<span class="home-quote-mark">“</span>
+
+### 不积跬步，无以至千里。
+
+<p>慢慢来，但一直向前。</p>
+
+</div>
+
+</section>
+
+<section class="home-bottom" markdown="1">
+
+<div><p class="home-eyebrow">KEEP IN TOUCH</p><h2>欢迎在这里相遇。</h2><p>如果你也对技术、阅读或学习方法感兴趣，可以从文章开始逛起。</p></div>
+
+[更多关于我 →](about.md){ .home-about-link }
+
+</section>
+
+</div>
