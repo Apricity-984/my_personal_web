@@ -65,6 +65,7 @@ nav:
       - notes/index.md
       - 阅读: notes/reading.md
       - 学习: notes/study.md
+  - 成长路线: roadmap.md
   - 关于: about.md
 
 copyright: Copyright &copy; 2026 我的个人博客
