@@ -1,6 +1,6 @@
-site_name: 我的个人博客
-site_description: 记录技术、阅读与日常想法
-site_author: 站点作者
+site_name: Apricity的空间
+site_description: 记录学习笔记、阅读与日常想法
+site_author: Apricity
 
 theme:
   name: material
@@ -67,4 +67,4 @@ nav:
       - 学习: notes/study.md
   - 关于: about.md
 
-copyright: Copyright &copy; 2026 我的个人博客
+copyright: Copyright &copy; 2026 Apricity的空间

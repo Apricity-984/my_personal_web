@@ -4,19 +4,19 @@
 
 <div class="grid cards" markdown>
 
--   :material-laptop: **技术与工具**
+-:material-laptop: **技术与工具**
 
     编程、开发工具和实践笔记。
 
     [浏览技术文章 →](blog/technology.md)
 
--   :material-book-open-page-variant: **阅读与学习**
+-:material-book-open-page-variant: **阅读与学习**
 
     读书摘录、课程笔记和长期整理的知识。
 
     [浏览学习笔记 →](notes/index.md)
 
--   :material-feather: **随笔与周刊**
+-:material-feather: **随笔与周刊**
 
     不定期写下的观察、收藏与每周回顾。
 
